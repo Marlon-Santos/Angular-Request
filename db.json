@@ -1,9 +1,12 @@
-{ 
-"cursos": [
+{
+  "cursos": [
     {
       "id": 1,
+      "nome": "angular"
+    },
+    {
       "nome": "angular",
+      "id": 2
     }
   ]
 }
- 
